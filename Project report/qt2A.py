@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from scipy.integrate import odeint
 
-#values
+#valuess
 
 k_mLb = 0.0082
 k_mTb = 0.0149
